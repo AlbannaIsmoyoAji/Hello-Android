@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("Pratikum Pemrograman Mobile");
+        System.out.println("Nama    : AL BANNA ISMOYO AJI");
     }
 }
